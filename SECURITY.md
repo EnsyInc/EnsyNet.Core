@@ -8,12 +8,12 @@ As a general rule of thumb, for now only the latest Major NuGet version will be 
 | Version   | Supported             | LTS               |
 | --------- | --------------------- | ----------------- |
 | 0.x.x     | :x:                   | :x:               |
-| 1.0.x     | :x:                   | :x:               |
-| 1.1.x     | :white_check_mark:    | :x:               |
+| 1.x.x     | :x:                   | :x:               |
+| 10.x.x    | :white_check_mark:    | :x:               |
 
 ## Reporting a Vulnerability
 
-To report a vulnerability you can send an email to fane_ecl@yahoo.com with the subject "EnsyNet.Core - Security Vulnerability". In the body of the message you should state the following:
+To report a vulnerability you can send an email to contact@ensylabs.com with the subject "EnsyNet.Core - Security Vulnerability". In the body of the message you should state the following:
 - What is the vulnerability
 - Example of how to exploit it (if applicable)
 - The non pre-release NuGet version/s affected by this vulnerability 
